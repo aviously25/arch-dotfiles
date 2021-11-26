@@ -1,0 +1,22 @@
+
+local o = vim.o
+local w = vim.wo
+local b = vim.bo
+
+vim.g.mapleader=','
+
+o.autoindent = true
+o.hlsearch = true
+o.incsearch = true
+o.ignorecase = true
+o.smartcase = true
+
+o.autoindent = true
+o.number = true
+o.relativenumber = true
+
+o.clipboard = [[unnamed,unnamedplus]]
+
+o.mouse = 'a'
+
+
