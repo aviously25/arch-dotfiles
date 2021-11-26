@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+3fc80c7dfd9da54361dedb47f03ec3638e4f5581 refs/remotes/origin/master
+1477bcaa70bdf45cc8fc400d448e4c04e77bea62 refs/remotes/origin/scratchpad_signals
+2abf86c9f5661f89e282092dac02f6f6cb0c6127 refs/remotes/origin/tab_pick_by_direction
+e04f789317cfe43cd7633a22f970f7440c53b663 refs/remotes/origin/tabbed_improve_switch_to
+2476685d3a93cdbb0b67cf80a45902063c421df9 refs/remotes/origin/tag_task_preview_schmelze
+9865016028febdf1f864f17dabe9beab6ca70af8 refs/remotes/origin/tag_task_refractor
